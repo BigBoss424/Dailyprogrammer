@@ -1,0 +1,11 @@
+Well I can create this using Java, C and C++ so I'm thinking about creating
+this application in all three languages to test my abilities and knowledge 
+of the programming languages. 
+
+Java 
+
+I can simply create this in one class. This shouldn't require me
+to create more than one class. This is simple 
+C
+
+C++
