@@ -5,7 +5,15 @@ of the programming languages.
 Java 
 
 I can simply create this in one class. This shouldn't require me
-to create more than one class. This is simple 
+to create more than one class. This is simple should be a simple
+program to write. I will be using VIM and the Linux Terminal as
+my development environment. I believe that I can master the
+Linux Terminal by writing my programs in the terminal itself. 
+The only tricky part about this development process will be 
+when the time comes to debug my code. I want to use other 
+applications but if I am to be coding from a terminal on all
+my other machines I might as well do it from the terminal anyways. 
+ 
 C
 
 C++
