@@ -23,12 +23,9 @@ Shows the board with the winning move in place.
 If there is no winning move print out "No winning move"
 
 Example:
-
-XXX
--XO
-OO-
-
-
+ XXX
+ -XO
+ OO-
 */
 
 import java.util.Scanner;
@@ -37,11 +34,16 @@ public class TicTacToeTournament
 {
    public static void main(String [] args)
    {
+      Scanner kb = new Scanner(System.in);
       
+
+      kb.nextLine();
+
    }//end main
 
    public boolean gameOver()
    {
-   
+      boolean a = true;
+      return a;
    }
 }//end class
