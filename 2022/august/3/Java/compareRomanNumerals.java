@@ -7,16 +7,17 @@
  *              As well as the sum of these characters.
  *
  */
+
+/*
+ * 
+ */
  public class compareRomanNumerals {
 
-    //Assign Roman Numerals
-    public class RomanNumerals{
-        char I
-        
-    }
     public static void main(String [] args)
     {
-        System.out.println("Welcome to compare Roman Numerals");
-        numcompare(a, b);
+      //Creating a hash table 
     }
+    
+    //Assign Roman Numerals to a HashTable
+    p
  }
